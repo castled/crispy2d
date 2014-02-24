@@ -1,4 +1,4 @@
-crispy2d
-========
+crispy2dPixelJoint
+==================
 
-Crispy2d - Renders upscaled bitmaps with nearest neighbor filtering
+Crispy2dPixelJoint - An adaptation of Crispy2d to nearest-neighbor scale anytime images are resized on PixelJoint
